@@ -1,0 +1,66 @@
+
+<html> <!-- The  HTML element represents the root of an HTML document -->
+
+    <head> <!--The head element represents a collection of metadata for the Document.-->
+
+        <title>Get shit done </title> <!--The title element represents the document's title or name-->
+
+        <h1>TO DO </h1> <!--The h1 element represents a section heading-->
+    </head>
+
+<body> <!--The body element represents the content of the document-->
+    <p>Tasks of <b>The Day</b> <!--it helps to bold the text-->
+
+    </p> <!--The p element represents a paragraph-->
+    <p>what <i>have to</i> <!--it helps to make text italic-->
+         <mark> Done Today </mark> <!--it makes the text highlighted-->
+
+    </p>
+   
+
+    <ol> <!--represents ordered list of elements-->
+		<li>task one</li> <!--The li element represents a list item-->
+		<li>task two</li>
+		<li>task three</li>
+		<li>task four</li>
+    </ol>
+
+    <ul> <!--represents unorder list of elements-->
+        <li>cleaning</li>
+        <li>buy groceries</li>
+        <li>date </li>
+        
+    </ul>
+<table border="1px"> <!--The table element represents data with more than one dimension-->
+
+    <tr> <!--The tr element represents a row of cells in a table-->
+		<th>monday</th> <!--The th element represents a header cell in a table-->
+		<th>tuesday</th>
+		<th>wednesday</th>
+		<th>thursday</th>
+        <th>friday</th>
+	</tr>
+    <tr>
+		<td>study</td> <!--The td element represents a data cell in a table-->
+		<td>study</td>
+		<td>study</td>
+		<td>study</td>
+		<td>study</td>
+    </tr>
+</table>
+
+    <a href="">Click me</a> <!--If the a element has an href attribute, then it represents a hyperlink-->
+
+    <img src="file:///C:/Users/acer/Desktop/web/New%20folder/pexels%20cup.jpg" alt="desktop" > <!--An img element represents an image-->
+<form action=""> <!--The form element represents a collection of form-associated elements-->
+        <label for="fname">First name</label><!--The label element represents a caption in a user interface-->
+        <br> <!--The br element represents a line break.-->
+        <input type="text"><br>
+        <label for="password">password</label>
+        <br>
+        <input type="password"><br>
+        <button>submit</button>
+
+    </form>
+</body>
+</html>
